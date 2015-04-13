@@ -1,2 +1,4 @@
 # hello-sea
-my second repo
+My Second Repository
+
+I like :coffee:, :pizza:, and :dancer:.
